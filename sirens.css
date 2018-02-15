@@ -1,0 +1,72 @@
+body {
+  background-image: url(../rps/gothamcity.jpg);
+  color: #fff;
+  text-align: center;
+}
+h1, h2, h3 {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  font-size: 3em;
+}
+h3 {
+  margin-bottom: 25px;
+}
+p {
+  font-size: 20px;
+}
+.icon {
+  margin: 0.25em;
+  width: 200px;
+  height: 200px;
+}
+.comp {
+  margin: 3em;
+}
+#contain {
+  float: left;
+  width: 65%;
+}
+aside {
+  float: right;
+}
+table {
+  border: 3px solid #fff;
+  margin: 10px;
+}
+th {
+  font-size: 2em;
+  border-bottom: 2px solid white;
+}
+td {
+  font-size: 1.5em;
+}
+td, td {
+  padding: .50em;
+}
+button {
+  margin: 1em;
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+}
+#reset {
+  color: white;
+  font-size: 2em;
+}
+#Harley {
+background-image: url(../rps/harvey.png);
+background-size: contain;
+background-repeat: no-repeat;
+}
+#Ivy {
+background-image: url(../rps/ivy.png);
+background-size: contain;
+background-repeat: no-repeat;
+}
+#Catwoman {
+background-image: url(../rps/cats.png);
+background-size: contain;
+background-repeat: no-repeat;
+}
